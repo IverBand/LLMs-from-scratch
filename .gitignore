@@ -1,4 +1,4 @@
-# Virtual environment
+# local virtual environment directory
 myllm/
 # Byte-compiled / optimized / DLL files
 __pycache__/
